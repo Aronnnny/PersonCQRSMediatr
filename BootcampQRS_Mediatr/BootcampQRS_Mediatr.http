@@ -1,0 +1,6 @@
+@BootcampQRS_Mediatr_HostAddress = http://localhost:5072
+
+GET {{BootcampQRS_Mediatr_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

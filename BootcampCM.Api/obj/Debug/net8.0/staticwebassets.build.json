@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "tt/ndi4uxvklcBsfMomreTQkOdKCStQ7ComeMsJ60hc=",
+  "Source": "BootcampCM.Api",
+  "BasePath": "_content/BootcampCM.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

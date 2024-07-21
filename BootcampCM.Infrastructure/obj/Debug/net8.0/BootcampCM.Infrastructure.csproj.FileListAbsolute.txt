@@ -1,0 +1,17 @@
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Infrastructure.deps.json
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Infrastructure.runtimeconfig.json
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Infrastructure.dll
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Infrastructure.pdb
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Domain.dll
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\bin\Debug\net8.0\BootcampCM.Domain.pdb
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.csproj.AssemblyReference.cache
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.AssemblyInfoInputs.cache
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.AssemblyInfo.cs
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.csproj.CoreCompileInputs.cache
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\Bootcamp.E5062AA9.Up2Date
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.dll
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\refint\BootcampCM.Infrastructure.dll
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.pdb
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\BootcampCM.Infrastructure.genruntimeconfig.cache
+C:\Users\aronc\source\repos\Bootcamp\Bootcamp24_CQRS_Mediatr\BootcampQRS_Mediatr\BootcampCM.Infrastructure\obj\Debug\net8.0\ref\BootcampCM.Infrastructure.dll

@@ -1,0 +1,451 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\controllers\\personcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\commands\\deletepersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\commands\\deletepersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\commands\\handlers\\deletepersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\commands\\handlers\\deletepersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|solutionrelative:bootcampcm.infrastructure\\repository\\personrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\commands\\createpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\commands\\createpersoncommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\commands\\handlers\\createpersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\commands\\handlers\\createpersoncommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\queries\\handlers\\getallpeoplequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\queries\\handlers\\getallpeoplequeryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\operations\\queries\\getallpeoplequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\operations\\queries\\getallpeoplequery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\models\\requests\\createpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\models\\requests\\createpersonrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|solutionrelative:bootcampcm.domain\\interfaces\\ipersonrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|solutionrelative:bootcampcm.domain\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|solutionrelative:bootcampcm.domain\\models\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.domain\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B21B228F-A145-408D-BBCF-05E8996A96BB}|BootcampCM.Domain\\BootcampCM.Domain.csproj|solutionrelative:bootcampcm.domain\\dtos\\persondto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\result\\personresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\result\\personresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.infrastructure\\mapping\\personmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|solutionrelative:bootcampcm.infrastructure\\mapping\\personmapping.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.infrastructure\\data\\configurations\\personentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|solutionrelative:bootcampcm.infrastructure\\data\\configurations\\personentityconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.infrastructure\\bootcampcm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|solutionrelative:bootcampcm.infrastructure\\bootcampcm.infrastructure.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aronc\\AppData\\Local\\Temp\\87cf5a99-08f0-447d-98cf-8f55c0904ac1_HandsOnCQRS.zip.ac1\\Abstractions\\Messaging\\Persons\\Commands\\AddPersonCommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F09203F-E8F1-458F-8212-D46D75363A7E}|BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj|solutionrelative:bootcampcm.infrastructure\\data\\applicationdatacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\extensions\\resultconverterextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\extensions\\resultconverterextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\aronc\\AppData\\Local\\Temp\\2d19f863-caac-4a71-b006-fac18832cd30_HandsOnCQRS.zip.d30\\Controllers\\PersonController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|c:\\users\\aronc\\source\\repos\\bootcamp\\bootcamp24_cqrs_mediatr\\bootcampqrs_mediatr\\bootcampcm.api\\bootcampcm.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{CDAA9A82-BB79-4272-897A-BB1FF8778697}|BootcampCM.Api\\BootcampCM.Api.csproj|solutionrelative:bootcampcm.api\\bootcampcm.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DeletePersonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\DeletePersonCommand.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Commands\\DeletePersonCommand.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\DeletePersonCommand.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Commands\\DeletePersonCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:32:16.755Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "CreatePersonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\Handlers\\CreatePersonCommandHandler.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Commands\\Handlers\\CreatePersonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\Handlers\\CreatePersonCommandHandler.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Commands\\Handlers\\CreatePersonCommandHandler.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAwAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T13:33:30.793Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreatePersonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\CreatePersonCommand.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Commands\\CreatePersonCommand.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\CreatePersonCommand.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Commands\\CreatePersonCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:27:39.43Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\Repository\\PersonRepository.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Repository\\PersonRepository.cs",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\Repository\\PersonRepository.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAAwAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:41:14.816Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Controllers\\PersonController.cs*",
+              "RelativeToolTip": "BootcampCM.Api\\Controllers\\PersonController.cs*",
+              "ViewState": "AQIAABgAAAAAAAAAAAAkwCYAAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:39:45.427Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DeletePersonCommandHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\Handlers\\DeletePersonCommandHandler.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Commands\\Handlers\\DeletePersonCommandHandler.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Commands\\Handlers\\DeletePersonCommandHandler.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Commands\\Handlers\\DeletePersonCommandHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:33:34.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GetAllPeopleQueryHandler.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Queries\\Handlers\\GetAllPeopleQueryHandler.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Queries\\Handlers\\GetAllPeopleQueryHandler.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Queries\\Handlers\\GetAllPeopleQueryHandler.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Queries\\Handlers\\GetAllPeopleQueryHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:19:32.164Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IPersonRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Domain\\Interfaces\\IPersonRepository.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Interfaces\\IPersonRepository.cs",
+              "RelativeToolTip": "BootcampCM.Domain\\Interfaces\\IPersonRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T12:36:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAllPeopleQuery.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Queries\\GetAllPeopleQuery.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Operations\\Queries\\GetAllPeopleQuery.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Operations\\Queries\\GetAllPeopleQuery.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Operations\\Queries\\GetAllPeopleQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T16:10:16.932Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreatePersonRequest.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Models\\Requests\\CreatePersonRequest.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Models\\Requests\\CreatePersonRequest.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Models\\Requests\\CreatePersonRequest.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Models\\Requests\\CreatePersonRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:23:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Interfaces\\IRepository.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Domain\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Interfaces\\IRepository.cs",
+              "RelativeToolTip": "BootcampCM.Domain\\Interfaces\\IRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:36:38.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Models\\Person.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Domain\\Models\\Person.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\Models\\Person.cs",
+              "RelativeToolTip": "BootcampCM.Domain\\Models\\Person.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAwAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:29:21.728Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "PersonResult.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Result\\PersonResult.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Result\\PersonResult.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Result\\PersonResult.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Result\\PersonResult.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T18:19:42.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PersonMapping.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Mapping\\PersonMapping.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\Mapping\\PersonMapping.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Mapping\\PersonMapping.cs",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\Mapping\\PersonMapping.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:24:26.874Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Program.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Program.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Program.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Program.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAkwA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:47:18.404Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240719155857_Updated_Age.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\Migrations\\20240719155857_Updated_Age.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T15:58:57.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "PersonDTO.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\DTOs\\PersonDTO.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Domain\\DTOs\\PersonDTO.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Domain\\DTOs\\PersonDTO.cs",
+              "RelativeToolTip": "BootcampCM.Domain\\DTOs\\PersonDTO.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:53:32.718Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "PersonEntityConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Data\\Configurations\\PersonEntityConfiguration.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\Data\\Configurations\\PersonEntityConfiguration.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Data\\Configurations\\PersonEntityConfiguration.cs",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\Data\\Configurations\\PersonEntityConfiguration.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAwBkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T21:03:15.014Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\appsettings.json",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\appsettings.json",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\appsettings.json",
+              "RelativeToolTip": "BootcampCM.Api\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-07-18T17:48:18.485Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "BootcampCM.Infrastructure.csproj",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\BootcampCM.Infrastructure.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-07-18T21:01:55.064Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "AddPersonCommand.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\AppData\\Local\\Temp\\87cf5a99-08f0-447d-98cf-8f55c0904ac1_HandsOnCQRS.zip.ac1\\Abstractions\\Messaging\\Persons\\Commands\\AddPersonCommand.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\87cf5a99-08f0-447d-98cf-8f55c0904ac1_HandsOnCQRS.zip.ac1\\Abstractions\\Messaging\\Persons\\Commands\\AddPersonCommand.cs",
+              "ToolTip": "C:\\Users\\aronc\\AppData\\Local\\Temp\\87cf5a99-08f0-447d-98cf-8f55c0904ac1_HandsOnCQRS.zip.ac1\\Abstractions\\Messaging\\Persons\\Commands\\AddPersonCommand.cs [Read Only]",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\87cf5a99-08f0-447d-98cf-8f55c0904ac1_HandsOnCQRS.zip.ac1\\Abstractions\\Messaging\\Persons\\Commands\\AddPersonCommand.cs [Read Only]",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T14:03:49.231Z",
+              "EditorCaption": " [Read Only]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "ApplicationDataContext.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "RelativeToolTip": "BootcampCM.Infrastructure\\Data\\ApplicationDataContext.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-18T17:43:22.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "ResultConverterExtension.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Extensions\\ResultConverterExtension.cs",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\Extensions\\ResultConverterExtension.cs",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\Extensions\\ResultConverterExtension.cs",
+              "RelativeToolTip": "BootcampCM.Api\\Extensions\\ResultConverterExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:18:29.428Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PersonController.cs",
+              "DocumentMoniker": "C:\\Users\\aronc\\AppData\\Local\\Temp\\2d19f863-caac-4a71-b006-fac18832cd30_HandsOnCQRS.zip.d30\\Controllers\\PersonController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2d19f863-caac-4a71-b006-fac18832cd30_HandsOnCQRS.zip.d30\\Controllers\\PersonController.cs",
+              "ToolTip": "C:\\Users\\aronc\\AppData\\Local\\Temp\\2d19f863-caac-4a71-b006-fac18832cd30_HandsOnCQRS.zip.d30\\Controllers\\PersonController.cs",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\AppData\\Local\\Temp\\2d19f863-caac-4a71-b006-fac18832cd30_HandsOnCQRS.zip.d30\\Controllers\\PersonController.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAIBJwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:15:48.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "BootcampCM.Api.http",
+              "DocumentMoniker": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\BootcampCM.Api.http",
+              "RelativeDocumentMoniker": "BootcampCM.Api\\BootcampCM.Api.http",
+              "ToolTip": "C:\\Users\\aronc\\source\\repos\\Bootcamp\\Bootcamp24_CQRS_Mediatr\\BootcampQRS_Mediatr\\BootcampCM.Api\\BootcampCM.Api.http",
+              "RelativeToolTip": "BootcampCM.Api\\BootcampCM.Api.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-07-18T17:48:17.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
